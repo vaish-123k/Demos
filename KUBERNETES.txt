@@ -1,0 +1,10 @@
+KUBERNETES
+involved in deploying, managing, and scaling containerized applications
+Containerized applications are applications that run in isolated runtime environments called containers. Containers encapsulate an application with all its dependencies, including system libraries, binaries, and configuration files
+Benefits:
+
+Scalability
+Resource efficiency
+High availability
+Portability
+Self-healing
