@@ -1,0 +1,18 @@
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\EmailLibrary\bin\Debug\EmailLibrary.dll
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\EmailLibrary\bin\Debug\EmailLibrary.pdb
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\EmailLibrary\obj\Debug\EmailLibrary.csproj.AssemblyReference.cache
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\EmailLibrary\obj\Debug\EmailLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\EmailLibrary\obj\Debug\EmailLibrary.dll
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\EmailLibrary\obj\Debug\EmailLibrary.pdb
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\EmailLibrary\bin\Debug\EmailLibrary.dll
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\EmailLibrary\bin\Debug\EmailLibrary.pdb
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\EmailLibrary\obj\Debug\EmailLibrary.csproj.AssemblyReference.cache
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\EmailLibrary\obj\Debug\EmailLibrary.csproj.CoreCompileInputs.cache
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\EmailLibrary\obj\Debug\EmailLibrary.dll
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\EmailLibrary\obj\Debug\EmailLibrary.pdb
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\EmailLibrary\bin\Debug\EmailLibrary.dll
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\EmailLibrary\bin\Debug\EmailLibrary.pdb
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\EmailLibrary\obj\Debug\EmailLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\EmailLibrary\obj\Debug\EmailLibrary.dll
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\EmailLibrary\obj\Debug\EmailLibrary.pdb
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\EmailLibrary\obj\Debug\EmailLibrary.csproj.AssemblyReference.cache

@@ -1,0 +1,33 @@
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\MainApp\bin\Debug\MainApp.exe
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\MainApp\bin\Debug\MainApp.pdb
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\MainApp\bin\Debug\FileReaderLibrary.dll
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\MainApp\bin\Debug\FileReaderLibrary.pdb
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\MainApp\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\MainApp\obj\Debug\MainApp.exe
+C:\Users\pasupuletis\source\repos\DotNetCaseStudy\MainApp\obj\Debug\MainApp.pdb
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\bin\Debug\MainApp.exe
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\bin\Debug\MainApp.pdb
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\bin\Debug\FileReaderLibrary.dll
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\bin\Debug\FileReaderLibrary.pdb
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\obj\Debug\MainApp.exe
+C:\Users\surchauh4\Downloads\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\obj\Debug\MainApp.pdb
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\bin\Debug\MainApp.exe
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\bin\Debug\MainApp.pdb
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\bin\Debug\FileReaderLibrary.dll
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\bin\Debug\FileReaderLibrary.pdb
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\obj\Debug\MainApp.exe
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\obj\Debug\MainApp.pdb
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\bin\Debug\EmailLibrary.dll
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\bin\Debug\EmailLibrary.pdb
+C:\Users\Vaikotag\Downloads\DotNetCaseStudy (2)\DotNetCaseStudy (1)\DotNetCaseStudy\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache

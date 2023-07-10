@@ -1,0 +1,66 @@
+Jam Day7
+==========
+1. Create Table Tablename???
+What does this statement do
+
+2. select * from Person
+Where City in('Delhi','Pune','Chennai','Hyderabad')
+What does the above statement does
+
+3. select * from Person
+   Where city = select city from Person 	
+		where name = 'Alok'
+What does the above command do
+
+4. select * from Person
+   where name like '%son'
+What does the above statement do
+
+5. which join is a cartesian product?
+6. which join , the same table joins it with itself
+7. which join , retrives only the matching rows from both the tables
+8. which join, retreives all the records from left table and only matching rows from right table
+9. Primary is equal to
+10. which of the following is a logical operator
+ALL
+AND
+ANY
+None
+11. which clause should be used to retrieve non duplicate values
+LIKE
+ALL
+Disctinct
+ANY
+12. select count(Empid) from Employees
+what does the above command does
+13. A query typed in the where clause of another query is called as
+14. How to write a condition on a group by clause
+15. select * from Employee
+    order by firstname asc
+what is the result of the query
+16. What is a database
+17. How to create a database
+18. how to use a database
+19. how to drop a database
+20. what is DDL stands for
+21. Drop table tablename
+what does the above command do
+22. alter table Student Add(Aress varchar(20))
+what does above statement does
+23. What happens when no values is inserted into a column of a table
+24. What does the following code snippet do?
+DELETE FROM STUDENTS 
+WHERE AGE = 16;  
+ROLLBACK;
+what happens in the above command
+25
+Which of the following commands are used to put a restriction on the number of rows returned from a query?
+LIKE
+LIMIT
+WHERE
+GROUP BY
+
+
+
+
+
